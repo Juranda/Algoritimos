@@ -1,4 +1,4 @@
-namespace Algoritimos.Tests
+namespace Algorithms.Tests
 {
     public class FizzBuzzTests
     {

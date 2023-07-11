@@ -1,4 +1,4 @@
-﻿namespace Algoritimos
+﻿namespace Algorithms
 {
     public static class FizzBuzz
     {
